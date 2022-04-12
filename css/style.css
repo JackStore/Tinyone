@@ -1,0 +1,143 @@
+body {
+    margin: 0 auto;
+}
+
+.header {
+    background-color: yellow;
+    height: 940px;
+}
+
+.navigation {
+    margin: 0 auto;
+    padding: 45px 0 0 150px;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.navigation_bar {
+    margin: 0 auto;
+    width: 23%;
+    padding: 20px 0 0 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 20px;
+}
+
+.information {
+    width: 84%;
+    padding: 150px 0 0 270px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+}
+
+.logo_tablet {
+    width: 23%;
+    padding: 60px;
+    
+}
+
+.text_logo {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.text {
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.article_heading {
+    width: 100%;
+    text-align: center;
+    padding: 120px 0 0 0;
+}
+
+.article_offers1 {
+    margin: 0 auto;
+    width: 65%;
+    padding: 50px 0 0 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.leftimg {
+    float: left;
+    margin: 7px 7px 7px 7px;
+    height: 100px;
+    
+}
+
+.article_offers2 {
+    margin: 0 auto;
+    width: 65%;
+    padding: 20px 0 0 0;
+    height: 240px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.page {
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    color: black;
+}
+
+.footer {
+    width: 100%;
+    height: 500px;
+    background-color: black;
+}
+
+.footer_text {
+    color: yellow;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+.footer_text2 {
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
+
+.footer_input_form {
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    padding-left: 600px;
+}
+.text_border {
+    border-radius: 4px 4px 4px 4px;
+    height: 40px;
+}
+
+.text_border2 {
+    border-radius: 4px 4px 4px 4px;
+    width: 90px;
+    height: 45px;
+    border: 0;
+    background-color: yellow;
+}
+
+.footer_bar {
+    margin: 0 auto;
+    width: 90%;
+    padding-top: 65px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    color: white;
+    justify-content: space-between;
+}
